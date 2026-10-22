@@ -1,4 +1,4 @@
----
+
 manifestVersion: 1
 id: mystudy-studyhub
 name: StudyHub
@@ -25,4 +25,4 @@ dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
----
+
