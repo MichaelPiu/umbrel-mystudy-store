@@ -8,8 +8,7 @@ services:
       APP_PORT: 4470
 
   web:
-    image: studyhub:local
-    pull_policy: never
+        image: localhost:5055/studyhub:1.0.0
     restart: on-failure
     volumes:
       # progressi, appunti e risorse (riusa la cartella data gia' esistente)
